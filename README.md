@@ -3,6 +3,6 @@ https://softtouchpmu.com/
 Wordpress;
 Development;
 SEO;
-Connecting External Sservices;
+Connecting External Services;
 Customer Training;
 Tech support;
